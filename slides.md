@@ -17,5 +17,5 @@ src: ./slides/4.hafta2.md
 src: ./slides/5.hazirlik.md
 ---
 ---
-src: ./slides/6.sonuc.md
+src: ./slides/6.sorular.md
 ---

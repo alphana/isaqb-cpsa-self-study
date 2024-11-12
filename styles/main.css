@@ -1,0 +1,20 @@
+
+.quiz-slide .question {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.show-answers {
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.show-answers:hover {
+    background: #45a049;
+}
