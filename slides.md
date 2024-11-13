@@ -14,8 +14,5 @@ src: ./slides/3.hafta1.md
 src: ./slides/4.hafta2.md
 ---
 ---
-src: ./slides/5.hazirlik.md
----
----
-src: ./slides/6.sorular.md
+src: ./slides/5.sorular.md
 ---
