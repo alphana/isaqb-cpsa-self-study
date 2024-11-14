@@ -89,9 +89,9 @@ const updateAnswer = (index: number, side?: 'left' | 'right') => {
 
 const getQuestionTypeLabel = () => {
   switch (props.type) {
-    case 'A': return 'Single Choice Question'
-    case 'P': return `Pick ${props.requiredSelections} from the options (${remainingSelections.value} remaining)`
-    case 'K': return 'Allocation Question'
+    case 'A': return 'A-Question'
+    case 'P': return `P-Question`
+    case 'K': return 'K-Question'
     default: return ''
   }
 }

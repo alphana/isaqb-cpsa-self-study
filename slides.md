@@ -11,5 +11,8 @@ src: ./slides/2.program.md
 src: ./slides/3.hafta1.md
 ---
 ---
-src: ./slides/5.sorular.md
+src: ./slides/1.sorular.md
+---
+---
+src: ./slides/2.sorular.md
 ---
