@@ -29,9 +29,6 @@ src: ./slides/mock/mock-exam-questions-1.md
 src: ./slides/mock/mock-exam-questions-2.md
 ---
 ---
-src: ./slides/mock/mock-exam-questions-3.md
----
----
 src: ./slides/mock/mock-exam-questions-4.md
 ---
 ---
